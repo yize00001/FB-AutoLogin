@@ -1,5 +1,6 @@
 # FB-AutoLogin
 可以自動登入FB帳戶的小程式
+![image](https://github.com/yize00001/FB-AutoLogin/blob/master/FB_AutoLogin.jpg))
 ## 安裝 Selenium
 ```
 pip install selenium
