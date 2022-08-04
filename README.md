@@ -8,5 +8,5 @@ pip install selenium
 
 https://chromedriver.chromium.org/downloads
 
-必須安裝和自己Chrome相對應的版本
+必須安裝和自己Chrome相對應的版本 將他放入檔案資料夾中
 
