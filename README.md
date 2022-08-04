@@ -9,4 +9,8 @@ pip install selenium
 https://chromedriver.chromium.org/downloads
 
 必須安裝和自己Chrome相對應的版本 將他放入檔案資料夾中
-
+## 輸入電子郵件和密碼
+```
+useremail = '輸入自己的Email'                      
+userpassword = '輸入自己的密碼' 
+````
