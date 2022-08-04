@@ -20,6 +20,6 @@ enter_email.send_keys(useremail)
 enter_password = driver.find_element("id", "pass") # 自動輸入密碼
 enter_password.send_keys(userpassword)
 
-driver.find_element("name", "login").click() #按下登入紐
+driver.find_element("name", "login").click() #按下登入鈕
 time.sleep(5)
 
